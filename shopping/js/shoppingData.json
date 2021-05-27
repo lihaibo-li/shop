@@ -1,0 +1,102 @@
+[{
+        "name": "打不翻的吸盘碗",
+        "list": [{
+                "id": "10001",
+                "color": "黑色",
+                "price": "21",
+                "img": "./img/img-01-01.png"
+            },
+            {
+                "id": "10002",
+                "color": "黄色",
+                "price": "21",
+                "img": "./img/img-01-02.png"
+            },
+            {
+                "id": "10003",
+                "color": "绿色",
+                "price": "21",
+                "img": "./img/img-01-03.png"
+            }
+        ]
+    },
+    {
+        "name": "韩式帆布电脑双肩包",
+        "list": [{
+                "id": "10004",
+                "color": "蓝色",
+                "price": "270",
+                "img": "./img/img-02-01.png"
+            },
+            {
+                "id": "10005",
+                "color": "绿色",
+                "price": "270",
+                "img": "./img/img-02-02.png"
+            },
+            {
+                "id": "10006",
+                "color": "红色",
+                "price": "270",
+                "img": "./img/img-02-03.png"
+            },
+            {
+                "id": "10007",
+                "color": "黄的",
+                "price": "270",
+                "img": "./img/img-02-04.png"
+            }
+        ]
+    },
+    {
+        "name": "钻石汤锅",
+        "list": [{
+                "id": "10008",
+                "color": "黑色",
+                "price": "310",
+                "img": "./img/img-03-01.png"
+            },
+            {
+                "id": "10009",
+                "color": "黄色",
+                "price": "310",
+                "img": "./img/img-03-02.png"
+            },
+            {
+                "id": "10010",
+                "color": "绿色",
+                "price": "310",
+                "img": "./img/img-03-03.png"
+            }
+        ]
+    },
+    {
+        "name": "中式雪地靴",
+        "list": [{
+                "id": "10011",
+                "color": "红色",
+                "price": "510",
+                "img": "./img/img-04-01.png"
+            },
+            {
+                "id": "10012",
+                "color": "黄色",
+                "price": "510",
+                "img": "./img/img-04-02.png"
+            },
+            {
+                "id": "10013",
+                "color": "蓝色",
+                "price": "510",
+                "img": "./img/img-04-03.png"
+            },
+            {
+                "id": "10014",
+                "color": "绿色",
+                "price": "510",
+                "img": "./img/img-04-04.png"
+            }
+        ]
+    }
+
+]
